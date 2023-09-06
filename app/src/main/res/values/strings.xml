@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To-Do</string>
+    <string name="search">Search</string>
+    <string name="add_note">Add note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="note_body">Note Body</string>
+    <string name="note_name">Note Name</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
